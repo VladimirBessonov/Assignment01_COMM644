@@ -1,4 +1,4 @@
-// STEP 1
+// Step 1
 var someMonth;
 function theMonth();
 var currentMonth;
@@ -6,17 +6,17 @@ var summerMonth;
 var myLibraryFunction;
 
 
-// STEP 2
+// Step 2
 17 //numeric literal expression
 "Hello, World!" //string literal expression
 false //boolean literal expression
 null //null literal expression
 
-// STEP 3 
+// Step 3
 let x = 45 * (17 - 12); // complex / variable expression
 let yx = x * (150 * 0.25); // complex / variable expression
 
-// STEP 4 
+// Step 4
 let sFirstName;
 let sLastName;
 let sAddress;
@@ -27,55 +27,55 @@ let nYourAge;
 let sRefferalSource;
 let bMayWeContactYou;
 
-// STEP 5
-let sFirstName = "Mariia", sLastName = "Okhota";
+// Step 5
+let sFirstName = "Vladimir", sLastName = "Bessonov";
 
 let sCity;
-sCity = "Dnipro";
+sCity = "California";
 
 let sState = "California";
-let nZipCode = 92115;
+let nZipCode = 92126;
 
-// STEP 6
-let ticketPrice = 170;
+// Step 6
+let ticketPrice = 500;
 window.console.log("The Hawaii ticket price is " + ticketPrice + " dollars.");
 
-// STEP_7
+// Step 7
 let x = false;
 window.console.log("Are we alone in the Universe? " + x);
 
 let y = 5
 window.console.log(y + false);
 
-// STEP_8  fixed version
+// Step 8  fixed version
 var someString = 'Who once said, \"Only two things are infinite, the universe and human stupidity, and I\'m not sure about the former.\"';
 window.console.log(someString);
 
-// STEP_9
+// Step 9
 let a = null;
 window.console.log(a);
 let b;
 window.console.log(Blob);
 
-// STEP_10
-window.console.log(typeof "Mariia");//string
+// Step 10
+window.console.log(typeof "Vladimir");//string
 window.console.log(typeof 17);//number
 window.console.log(typeof true);//boolean
 window.console.log(typeof [1, 2, 3]);//object
 window.console.log(typeof a);//undefined
 
-// STEP_11
-alert("Hello " + "Mariia Okhota" + ", Welcome to the JavaScript class!");
+// Step 11
+alert("Hello " + "Vladimir Bessonov" + ", Welcome to the JavaScript class!");
 
-// STEP_12
-let name = "Mariia Okhota";
+// Step 12
+let name = "Vladimir Bessonov";
 alert("Hello " + name + ", Welcome to the JavaScript class!");
 
-// STEP_13
+// Step 13
 let course = "JavaScript";
 alert("Hello " + name + ", Welcome to the " + course + " class!");
 
-// STEP_14
+// Step 14
 alert("Hello " + name + ".\nWelcome to the JavaScript class!");
 
 // STEP_15
